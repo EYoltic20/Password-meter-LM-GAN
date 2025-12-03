@@ -9,9 +9,7 @@ generate_wordlist.py
 just_rockyou.csv
 lantents_norm.npy
 latents.csv
-mixed_passwords.csv
-reliability.png
-scores.csv
+
+
 tokenizer.json
 train.pt
-model.zip
